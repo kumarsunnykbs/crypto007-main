@@ -1,0 +1,169 @@
+.BeforHover {
+    color: black;
+}
+
+.new_data {
+    background-color: #90EE90 !important;
+}
+
+.NewCard.card-body {
+    padding: 0px 0px !important;
+
+}
+
+.nav-tabs-custom .nav-item .nav-link::after {
+    content: "";
+    background: black !important;
+    height: 1px;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: -1px;
+    transition: all 250ms ease 0s;
+    transform: scale(0);
+
+}
+
+button.chartBytn.btn.btn-primary.btn-lg {
+
+    margin-right: 13px !important;
+}
+
+button.chartBytns.btn.btn-primary.btn-lg {
+    margin-left: 13px !important;
+}
+
+span.d-none.d-sm-block {
+    font-size: 17px;
+}
+
+span.bg-success.badge.badge-secondary {
+    font-size: 12px !important;
+}
+
+span.bg-danger.badge.badge-secondary {
+    font-size: 12px !important;
+}
+
+.btn-group-lg>.btn,
+.btn-lg {
+    padding: 0.5rem 4rem !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.nav-tabs-custom.card-header-tabs .nav-link {
+    padding: -1.75rem 1rem !important;
+    font-weight: 500 !important;
+}
+
+.nav-tabs-custom .nav-item .nav-link.active:after {
+    transform: none !important;
+}
+
+
+
+ul.nav-tabs-custom.card-header-tabs.secondnav.nav.nav-tabs {
+    MARGIN: -24PX !important;
+    PADDING-LEFT: 12PX !important;
+}
+
+.data {
+    margin-left: 30px !important;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: black !important;
+    background-color: #cbcbd5 !important;
+}
+
+.usdtcolour {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+
+
+.nav-tabs-custom .nav-item .nav-link.active {
+    color: none !important;
+}
+
+.accessory {
+    height: 6px;
+    background-image: radial-gradient(closest-side,
+            hsla(0, 0%, 50%, 1.0),
+            hsla(0, 0%, 50%, 0) 100%);
+    position: relative;
+    border: 5px solid red;
+}
+
+
+
+.impo {
+    margin-top: -12px !important;
+}
+
+ul.d-flex.marginNAv {
+    margin-left: -26px !important;
+}
+.Refresh_following_list{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+.slidecontainer {
+    width: 100%;
+}
+
+/* 
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 25px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    background: #04AA6D;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #04AA6D;
+    cursor: pointer;
+} */
